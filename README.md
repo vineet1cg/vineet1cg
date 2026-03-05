@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajapati Vineet</h1>
-<h3 align="center">Full Stack Developer • DevOps Enthusiast • Lifelong Learner</h3>
+<h3 align="center">MERN Stack Developer • DevOps Enthusiast • Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://github.com/vineet1cg">
@@ -22,7 +22,12 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,nodejs,express,react,redux,mongodb,postgres,docker,linux,git,tailwind,firebase,bash,unity,blender,rust" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,c,cpp,java,js,postgres,docker,linux,git,tailwind,firebase,bash,unity,blender,rust" />
+</p>
+
+<p align="center">
+  🧠 <sub><i>I'm a lifelong learner — this stack keeps evolving.  
+  Some technologies here are currently being explored.</i></sub>
 </p>
 
 ---
@@ -30,8 +35,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vineet1cg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet1cg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vineet1cg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineet1cg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
@@ -45,5 +50,5 @@
 ---
 
 <p align="center">
-  ✨ <i>Code. Learn. Build. Repeat.</i> ✨
+  <sub>✨ Code. Learn. Build. Repeat. ✨</sub>
 </p>
